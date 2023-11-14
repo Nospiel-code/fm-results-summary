@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](image.png)
+![image](https://github.com/Nospiel-code/fm-results-summary/assets/130290610/073f2387-1c72-45a4-bbb4-b4c975e4c1e2)
+
 
 ### Links
 
-- [Solution URL:](https://your-solution-url.com)
-- [Live Site URL:](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Nospiel-code/fm-results-summary)
+- [Live Site URL](https://nospiel-code.github.io/fm-results-summary/)
 
 ## My process
 
